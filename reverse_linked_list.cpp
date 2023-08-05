@@ -1,4 +1,4 @@
-//program to reverse node
+//program to reverse linked list
 //problem link: https://leetcode.com/problems/reverse-linked-list/
 
 
