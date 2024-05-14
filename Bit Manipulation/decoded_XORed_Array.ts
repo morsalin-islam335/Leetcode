@@ -1,4 +1,4 @@
-
+// TypeScript Solution
 // problem linK:  https://leetcode.com/problems/decode-xored-array/
 /*
     example:
