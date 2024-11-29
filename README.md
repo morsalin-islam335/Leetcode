@@ -1,3 +1,1 @@
-# Leetcode_practice_problem
-# Leetcode_practice_problem
-# Leetcode
+# You can all problems link in each file.
